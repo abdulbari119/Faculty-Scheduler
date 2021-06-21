@@ -3,7 +3,7 @@ MongoDB, Express, Angular, and Node.js Fundamentals
 MongoDB, Express, Angular and Node.js Fundamentals begins by demystifying the MEAN architecture. You will take a look at the features of the JavaScript technologies, frameworks, or libraries that make up a MEAN stack. You will learn how to develop a RESTful API using Node.js, Express.js, and MongoDB Atlas. You will also learn how to build a blogging application using the MEAN stack. Next, you will learn about authentication using MEAN, and explore the features of Angular, such as pipes, reactive forms, modules and optimizing apps, animations and unit testing, and much more. By the end of the course, you will get all the knowledge you need to become a pro at developing efficient web applications using JavaScript technologies.
 
 MongoDB, Express, Angular, and Node.js Fundamentals
-What you will learn
+What you will learn:
 
     Understand the MEAN architecture
     Create RESTful APIs to complete CRUD tasks
@@ -15,7 +15,7 @@ What you will learn
 
 Hardware requirements
 
-For an optimal student experience, we recommend the following hardware configuration:
+For an optimal experience the following hardware configuration is recommended:
 
     Processor: Intel Core i5 or equivalent
     Memory: 4 GB RAM or higher
